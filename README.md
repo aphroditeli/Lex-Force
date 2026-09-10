@@ -1,4 +1,3 @@
-[LexForce-README.md](https://github.com/user-attachments/files/32062291/LexForce-README.md)
 # Lex Force · 法治天下
 
 > 口袋里的法律工具箱 —— 法典查阅、AI 案情分析、即时取证、起诉文书生成，数据全部留在你的手机上。
